@@ -57,9 +57,9 @@ Screenshots live in [`docs/screenshots/`](docs/screenshots/) (generated from a r
 
 | Treemap | Files | Types |
 |---|---|---|
-| ![Treemap](docs/screenshots/shot_treemap.png) | ![Files](docs/screenshots/shot_files.png) | ![Types](docs/screenshots/shot_types.png) |
+| <img src="docs/screenshots/shot_treemap.png" width="350" alt="Treemap"> | <img src="docs/screenshots/shot_files.png" width="350" alt="Files"> | <img src="docs/screenshots/shot_types.png" width="350" alt="Types"> |
 | **Age** | **Duplicates** | **Cleanup** |
-| ![Age](docs/screenshots/shot_age.png) | ![Duplicates](docs/screenshots/shot_duplicates.png) | ![Cleanup](docs/screenshots/shot_cleanup.png) |
+| <img src="docs/screenshots/shot_age.png" width="350" alt="Age"> | <img src="docs/screenshots/shot_duplicates.png" width="350" alt="Duplicates"> | <img src="docs/screenshots/shot_cleanup.png" width="350" alt="Cleanup"> |
 
 > Screenshots not showing? They are generated locally (never committed as fakes). Run this to regenerate them:
 >
@@ -171,5 +171,5 @@ MIT — see [LICENSE](LICENSE). Do what you like, no warranty.
 ---
 
 <p align="center">
-  Made with ❤️ in Python + Tkinter · <img src="app.png" width="20" height="20" align="center" alt="icon" /> Disk Space Visualizer v1.2.0
+  Made with ❤️ in Python + Tkinter · <img src="app.png" width="20" height="20" style="vertical-align:middle" alt="icon" /> Disk Space Visualizer v1.2.0
 </p>
