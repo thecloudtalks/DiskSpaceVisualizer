@@ -171,5 +171,5 @@ MIT — see [LICENSE](LICENSE). Do what you like, no warranty.
 ---
 
 <p align="center">
-  Made with ❤️ in Python + Tkinter · <img src="app.png" width="20" height="20" style="vertical-align:middle" alt="icon" /> Disk Space Visualizer v1.2.0
+  Made with ❤️ in Python + Tkinter · Disk Space Visualizer v1.2.0
 </p>
