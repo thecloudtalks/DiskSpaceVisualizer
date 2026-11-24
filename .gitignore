@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+installer-output/
+*.log
+
+# Virtual envs
+.venv/
+venv/
+env/
+.env
+
+# Windows / IDE
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp / demo
+*.tmp
+dsv_demo/
+dsv_shots/
+
+# Keep these (explicitly NOT ignored):
+# app.png, app.ico, DiskSpaceVisualizer-Presentation.pptx
+!app.png
+!app.ico
